@@ -10,7 +10,7 @@ Recuperar o Framework de desenvolvimento anterior.
 	npm install --legacy-peer-deps
 ```
 
-### Para iniciar o servidor colocar o comando:
+Para iniciar o servidor colocar o comando:
 
 ```bash
 	yarn start  
