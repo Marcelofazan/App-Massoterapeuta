@@ -2,7 +2,7 @@
 
 Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em NodeJS e React com banco de dados Postgree. 
 
-# Frontend Requesitos Necessários 
+## Frontend Requesitos Necessários 
 
 Recuperar o Framework de desenvolvimento anterior. 
 
@@ -10,13 +10,13 @@ Recuperar o Framework de desenvolvimento anterior.
 	npm install --legacy-peer-deps
 ```
 
-## Para iniciar o servidor colocar o comando:
+### Para iniciar o servidor colocar o comando:
 
 ```bash
 	yarn start  
 ```
 
-# Backend Requesitos Necessários 
+## Backend Requesitos Necessários 
 
 Instalar o Framework de desenvolvimento. 
 
@@ -30,7 +30,7 @@ Automatizar o processo de reinicialização
     npm install -g nodemon
 ```
 
-## Para iniciar o servidor colocar o comando:
+### Para iniciar o servidor colocar o comando:
 
 ```bash
     nodemon index.js
@@ -70,6 +70,6 @@ Modifique a string de conexão no arquivo **db.js**, no trecho indicado:
 
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
-## Aqui está uma demonstração do Projeto
+#### Aqui está uma demonstração do Projeto
 
 <img width="1316" height="607" alt="App-Massoterapeuta-Node-React" src="https://github.com/user-attachments/assets/051fda55-b9c6-46da-8d01-33012383f17e" />
