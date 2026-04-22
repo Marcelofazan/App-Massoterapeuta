@@ -55,7 +55,7 @@ ou
 
 ## Modo de executar o Projeto:
 
-Necessários duas instâncias do VSCode abertas: 
+Necessários abrir duas instâncias do VSCode: 
 
 ```bash
 VSCode 
