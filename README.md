@@ -17,7 +17,7 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 - **Express Router** - Reponsável por criar manipuladores de rotas modulares e montáveis. 
 - **Sequelize** - Mapeador objeto-relacional (ORM) permite que manipular dados usando objetos e métodos JavaScript, eliminando a necessidade de escrever queries SQL
 
-## Frontend Requisitos necessários 
+## Requisitos e Detalhe do uso Frontend (React)
 
 Recuperar o Framework de desenvolvimento anterior. 
 
@@ -31,7 +31,7 @@ Para iniciar o servidor colocar o comando:
 	yarn start  
 ```
 
-## Backend Requisitos necessários 
+## Requisitos e Detalhe do uso Backend (Node.js)
 
 Instalar o Framework de desenvolvimento. 
 
