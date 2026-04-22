@@ -45,10 +45,10 @@ Necessários duas instâncias do VSCode abertas:
 ```bash
 VSCode 
 |------| Backend
-			|------| API Start / (http://localhost:3333/)
+       |------ API Start / (http://localhost:3333/)
 VSCode
 |------| Frontend
-			|------| App Init / (http://localhost:3000/)
+       |------ App Init / (http://localhost:3000/)
 ```
 
 ### String de conexão do banco
