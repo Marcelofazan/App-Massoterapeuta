@@ -2,7 +2,7 @@
 
 Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em NodeJS e React com banco de dados Postgree. 
 
-## Frontend Requesitos Necessários 
+## Frontend Requisitos necessários 
 
 Recuperar o Framework de desenvolvimento anterior. 
 
@@ -16,7 +16,7 @@ Para iniciar o servidor colocar o comando:
 	yarn start  
 ```
 
-## Backend Requesitos Necessários 
+## Backend Requisitos necessários 
 
 Instalar o Framework de desenvolvimento. 
 
@@ -30,7 +30,7 @@ Automatizar o processo de reinicialização
     npm install -g nodemon
 ```
 
-### Para iniciar o servidor colocar o comando:
+Para iniciar o servidor colocar o comando:
 
 ```bash
     nodemon index.js
@@ -38,7 +38,7 @@ ou
     node index.js
 ```
 
-### Modo de executar o Projeto:
+## Modo de executar o Projeto:
 
 Necessários duas instâncias do VSCode abertas: 
 
@@ -50,7 +50,6 @@ VSCode
 ------| Frontend
 ------| APP Projeto / (http://localhost:3000/)
 ```
-
 
 ### String de conexão do banco
 
