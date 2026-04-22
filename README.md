@@ -42,13 +42,14 @@ ou
 
 Necessários duas instâncias do VSCode abertas: 
 
+```bash
 VSCode 
 ------| Backend
 ------| API Start / (http://localhost:3333/)
 VSCode
 ------| Frontend
 ------| APP Projeto / (http://localhost:3000/)
-
+```
 
 
 ### String de conexão do banco
