@@ -69,3 +69,7 @@ Modifique a string de conexão no arquivo **db.js**, no trecho indicado:
 ```
 
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
+## Aqui está uma demonstração do Projeto
+
+<img width="1316" height="607" alt="App-Massoterapeuta-Node-React" src="https://github.com/user-attachments/assets/051fda55-b9c6-46da-8d01-33012383f17e" />
