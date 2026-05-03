@@ -1,8 +1,8 @@
-# App-Massoterapeuta-Node-React
+### App-Massoterapeuta-Node-React
 
 Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em NodeJS e React com banco de dados Postgree. 
 
-## O que voçê vai ver nesse Projeto 
+### O que voçê vai ver nesse Projeto 
 
 #### React
 - **react-router-dom** - Biblioteca padrão React para gerenciar navegação e roteamento em aplicações web Single Page Applications, permitindo que o usuário navegue entre diferentes "telas" sem recarregar a página inteira 
@@ -17,7 +17,7 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 - **Express Router** - Reponsável por criar manipuladores de rotas modulares e montáveis. 
 - **Sequelize** - Mapeador objeto-relacional (ORM) permite que manipular dados usando objetos e métodos JavaScript, eliminando a necessidade de escrever queries SQL
 
-## Requisitos e Detalhe do uso Frontend (React)
+#### Requisitos e Detalhe do uso Frontend (React)
 
 Recuperar o Framework de desenvolvimento anterior. 
 
@@ -31,7 +31,7 @@ Para iniciar o servidor colocar o comando:
 	yarn start  
 ```
 
-## Requisitos e Detalhe do uso Backend (Node.js)
+#### Requisitos e Detalhe do uso Backend (Node.js)
 
 Instalar o Framework de desenvolvimento. 
 
@@ -53,7 +53,7 @@ ou
     node index.js
 ```
 
-## Modo de executar o Projeto:
+#### Modo de executar o Projeto:
 
 Necessários abrir duas instâncias do VSCode: 
 
@@ -66,7 +66,7 @@ VSCode
      |---- App Init / (http://localhost:3000/)
 ```
 
-### String de conexão do banco
+#### String de conexão do banco
 
 Modifique a string de conexão no arquivo **db.js**, no trecho indicado:
 
